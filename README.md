@@ -11,3 +11,6 @@ For the use of TSAC corpus, please consider the following paper :
 Salima Medhaffar, Fethi Bougares, Yannick Estève and Lamia Hadrich-Belguith. Sentiment analysis of Tunisian dialects: Linguistic Ressources and Experiments. WANLP 2017. EACL 2017
 
 
+
+@fethi.bougares
+
